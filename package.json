@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "name": "voidbot",
+  "description": "Meu primeiro bot para o discord usando javascript e o aprendizado adiquirido na Trybe: Um bot para estudos e ajuda a relembrar conceitos.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilksonPedro/VoidBOT.git"
+  },
+  "keywords": [
+    "bot-discord"
+  ],
+  "author": "Wilkson Pedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilksonPedro/VoidBOT/issues"
+  },
+  "homepage": "https://github.com/WilksonPedro/VoidBOT#readme"
+}
